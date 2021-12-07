@@ -1,0 +1,23 @@
+.container-fluid{
+    background-color: #000000;
+
+}
+
+main div.container{
+
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #f5c2c7;
+}
+
+main div.flex-row{
+    margin: 5px;
+    padding: 5px;
+}
+
+
+
+img{
+    margin: 0 auto;
+    padding: 10px;
+}
